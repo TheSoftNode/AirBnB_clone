@@ -17,7 +17,7 @@ class Test_instancePlace(unittest.TestCase):
     """ Class for unittest of instance check """
 
     def tearDown(self):
-        """ Tear down for all methods """
+        """ Terminate all the methods """
         try:
             remove("file.json")
         except:
