@@ -83,7 +83,7 @@ class Test_initCity(unittest.TestCase):
         pass
 
     def tearDown(self):
-        """ Tear down for all methods """
+        """ Terminate all the methods """
         try:
             remove("file.json")
         except:
