@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Place class that inherits from BaseModel
+Place class that inherits from BaseModel class
 """
 
 from models.base_model import BaseModel
