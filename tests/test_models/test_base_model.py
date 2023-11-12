@@ -139,7 +139,7 @@ class Test_str__(unittest.TestCase):
     """ Class for testing __str__ method """
 
     def tearDown(self):
-        """ Tear down for all methods """
+        """ Remove  all methods """
         try:
             remove("file.json")
         except:
