@@ -13,7 +13,7 @@ from time import sleep
 
 class Test_instanceState(unittest.TestCase):
 
-    """ Class for unittest of instance check """
+    """ Class for unittest of instance checking """
 
     def tearDown(self):
         """ Tear down for all methods """
