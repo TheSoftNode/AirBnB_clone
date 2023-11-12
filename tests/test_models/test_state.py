@@ -17,7 +17,7 @@ class Test_instanceState(unittest.TestCase):
     """ Class for unittest of instance check """
 
     def tearDown(self):
-        """ Tear down for all methods """
+        """ Remove all methods """
         try:
             remove("file.json")
         except:
