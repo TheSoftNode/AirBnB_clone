@@ -6,10 +6,6 @@ This project is the first step towards building a full web application: the **Ai
 It is very important because it serves as the back-end base of other projects: 
 HTML/CSS templating, database storage, API, front-end integration…
 
-![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
-![Holberton Logo](https://www.holbertonschool.com/holberton-logo.png)
-
-
 # Synopsis
 
 **The Console**
@@ -245,10 +241,10 @@ user@ubuntu:~/AirBnB$
 
 ## Built with
 
-Ubuntu 14.04, Emacs, and Python3 language.
+Ubuntu 14.04, Vim, and Python3 language.
 
 ## Authors
 
-Jhoan Stiven Zamora Caicedo | Github: [jzamora5](https://github.com/jzamora5) 
+Theophilus Uchechukwu | Github: [TheSoftNode](https://github.com/TheSoftNode) 
 
-Jose David Caro Cantor | Github: [josecaro02](https://github.com/josecaro02)
+Scholastica Ogbonna | Github: [Scholastica25](https://github.com/Scholastica25)
