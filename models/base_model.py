@@ -2,7 +2,7 @@
 
 """
 BaseModel class that defines all common attributes/methods
-for other classes
+for other classes. It is like the parents class
 
 """
 
