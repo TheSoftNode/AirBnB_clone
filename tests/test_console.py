@@ -34,7 +34,7 @@ class Test_non_existing_command(unittest.TestCase):
 
 class Test_help(unittest.TestCase):
 
-    """ Tests the help commands """
+    """ Tests the help command """
 
     def setUp(self):
         """ Set up for all methods """
